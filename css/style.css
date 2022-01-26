@@ -1,0 +1,74 @@
+
+#main {
+    width: 70%;
+    margin: 60px auto;
+    background-color: white;
+    border-radius: 25px;
+}
+
+#main .bir img {
+    width: 100%;
+    background-size: cover;
+    
+}
+table{
+    padding: 30px;
+}
+.one {
+    width: 60%;
+    
+}
+.two {
+    width: 40%;
+    
+}
+.file{
+    width: 100%;
+
+}
+.file td{
+width: 50%;
+}
+.two p{
+    padding: 12px;
+    font-size: 18px;
+    font-weight: 600;
+
+}
+.blue {
+    color: rgb(22, 121, 187);
+}
+.btn button{
+    border: none;
+    padding: 10px ;
+    background-color:rgb(22, 121, 187) ;
+    border-radius: 5px;
+   width: 100%;
+   margin: auto;
+}
+.btn a{
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.one a {
+    text-decoration: none;
+    color: rgb(22, 121, 187);
+ 
+}
+
+
+
+b{
+    
+    padding: 8px 12px;
+    margin: 1px;
+    border: 1px solid rgb(22, 121, 187);
+    box-shadow: 1px 1px 2px rgb(22, 121, 187);
+}
+h1 ,h2 {
+   
+}
