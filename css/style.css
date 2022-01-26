@@ -1,30 +1,24 @@
-
 #main {
     width: 70%;
     margin: 60px auto;
     background-color: white;
     border-radius: 25px;
 }
-
 #main .bir img {
     width: 100%;
     background-size: cover;
-    
 }
 table{
     padding: 30px;
 }
 .one {
     width: 60%;
-    
 }
 .two {
     width: 40%;
-    
 }
 .file{
     width: 100%;
-
 }
 .file td{
 width: 50%;
@@ -33,7 +27,6 @@ width: 50%;
     padding: 12px;
     font-size: 18px;
     font-weight: 600;
-
 }
 .blue {
     color: rgb(22, 121, 187);
@@ -53,19 +46,13 @@ width: 50%;
     font-style: italic;
     font-size: 18px;
 }
-
 .one a {
     text-decoration: none;
     color: rgb(22, 121, 187);
- 
 }
 b{
-    
     padding: 8px 12px;
     margin: 1px;
     border: 1px solid rgb(22, 121, 187);
     box-shadow: 1px 1px 2px rgb(22, 121, 187);
-}
-h1 ,h2 {
-   
 }
